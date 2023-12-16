@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aabir (@aabir-tech)
-- 👀 I’m interested in Data Science & Cyber Security
-- 🌱 I’m currently learning Excel, SQL, Python, Tableau,
+- 👀 I’m interested in Data Science, AI & Cyber Security
+- 🌱 I’m currently learning Excel, SQL, Python, Power BI & Tableau
 - 💞️ I’m looking to collaborate on sample data sets for data analysis
 - 📫 How to reach me: LinkedIn
 
